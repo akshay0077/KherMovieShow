@@ -1,3 +1,4 @@
+
 import React from "react";
 import {
     FaFacebookF,
@@ -22,12 +23,7 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur.
+                Welcome to KherMovieShow, your go-to source for honest and unbiased movie reviews. Our team of expert critics brings you insightful analysis and commentary on films from a diverse range of genres. Whether you're a fan of drama, comedy, action, or horror, we've got you covered with in-depth reviews and ratings. Stay tuned for the latest updates and recommendations on the hottest movies of the year.
                 </div>
                 <div className="socialIcons">
                     <span className="icon">

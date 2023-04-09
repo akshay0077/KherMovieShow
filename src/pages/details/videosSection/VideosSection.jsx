@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 
+
 import "./style.scss";
 
 import ContentWrapper from "../../../components/contentWrapper/ContentWrapper";
